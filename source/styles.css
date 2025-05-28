@@ -19,7 +19,7 @@
             object-fit: cover;
             background-size: cover;
             background-position: center;
-            filter: blur(4px);
+            filter: blur(3px);
         }
 
         .overlay-content {
